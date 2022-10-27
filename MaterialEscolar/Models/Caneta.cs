@@ -107,7 +107,7 @@
             Caida = true;
         }
 
-        public void PedarDoChao()
+        public void PegarDoChao()
         {
             Caida = false;
         }
